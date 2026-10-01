@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-10-05T20:05:04.916Z",
+  "items": {
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-10-01T19:52:01.983Z",
+      "last_pushed_at": "2026-10-01T19:52:01.983Z"
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-10-01T19:57:33.564Z",
+      "last_pushed_at": "2026-10-01T19:57:33.564Z"
+    }
+  }
+}
