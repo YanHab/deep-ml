@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T23:02:41.807Z",
+  "generated_at": "2026-10-06T23:21:01.138Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -125,6 +125,19 @@
       "path": "math/0019-probability-fundamentals",
       "first_solved_at": "2026-10-06T23:02:41.273Z",
       "last_pushed_at": "2026-10-06T23:02:41.273Z"
+    },
+    "problem:1058": {
+      "kind": "problem",
+      "id": "1058",
+      "title": "Random Train/Validation/Test Split with Shuffling",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1058",
+      "path": "problems/1058-random-train-validation-test-split-with-shuffling",
+      "first_solved_at": "2026-10-06T23:21:00.456Z",
+      "last_pushed_at": "2026-10-06T23:21:00.456Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
