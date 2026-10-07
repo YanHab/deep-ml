@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:28:52.974Z",
+  "generated_at": "2026-10-07T16:05:41.474Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -177,6 +177,19 @@
       "last_pushed_at": "2026-10-07T13:28:51.726Z",
       "language": "python",
       "lines": 2
+    },
+    "problem:41": {
+      "kind": "problem",
+      "id": "41",
+      "title": "Simple Convolutional 2D Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/41",
+      "path": "problems/0041-simple-convolutional-2d-layer",
+      "first_solved_at": "2026-10-07T16:05:39.452Z",
+      "last_pushed_at": "2026-10-07T16:05:39.452Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
