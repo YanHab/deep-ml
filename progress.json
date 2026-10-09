@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:17:39.994Z",
+  "generated_at": "2026-10-09T22:19:58.514Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -626,6 +626,19 @@
       "path": "problems/1107-count-rows-per-group",
       "first_solved_at": "2026-10-09T22:17:39.495Z",
       "last_pushed_at": "2026-10-09T22:17:39.495Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1108": {
+      "kind": "problem",
+      "id": "1108",
+      "title": "Average per group",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1108",
+      "path": "problems/1108-average-per-group",
+      "first_solved_at": "2026-10-09T22:19:57.742Z",
+      "last_pushed_at": "2026-10-09T22:19:57.742Z",
       "language": "sql",
       "lines": 4
     }
