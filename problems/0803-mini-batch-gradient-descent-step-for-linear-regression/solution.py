@@ -6,25 +6,20 @@ def mini_batch_gd_step(X: np.ndarray, y: np.ndarray, weights: np.ndarray, bias: 
     Returns a 1D array of length D+1: updated weights followed by updated bias.
     
     """
-    error = 0
-    grad = 0
-    for i in batch_indices:
-        x_i = X[i]
-        y_i = y[i]
 
-        y_hat = np.dot(x_i, weights) + bias 
+    x_i = X[batch_indices]
+    y_i = y[batch_indices]
 
-        error += y_hat - y_i  
-        grad += (y_hat - y_i)*x_i
+    y_hat = x_i @ weights + bias
 
-    error /= len(batch_indices)
-    grad /= len(batch_indices)
-
-    grad *= 2
-    error *= 2
+    error = (y_hat - y_i)
+    grad = (x_i.T @ error )*2/len(batch_indices)
 
     weights = weights - grad*lr
-    bias = bias - error*lr
+    bias = bias - np.mean(error*2, axis=0) * lr
     return np.concatenate((weights, [bias]), axis=0)
+
+
+
 
     
