@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**56** solved · 45 problems · 0 labs · 11 math
+**57** solved · 46 problems · 0 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -53,6 +53,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-10-09 | [solution](problems/0848-dummy-regressor-baseline) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-10-09 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-10-10 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
+| [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-10-10 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-10-07 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-10-07 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-10-09 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
