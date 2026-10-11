@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**58** solved · 47 problems · 0 labs · 11 math
+**59** solved · 48 problems · 0 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-08 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-05 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-10-05 | [solution](problems/0112-min-max-scaling-of-feature-values) |
+| [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-10-11 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-06 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Remove duplicates with DISTINCT](https://www.deep-ml.com/problems/1105) | easy | 2026-10-09 | [solution](problems/1105-remove-duplicates-with-distinct) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-10-07 | [solution](problems/0003-reshape-matrix) |
